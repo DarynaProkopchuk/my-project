@@ -1,0 +1,31 @@
+{
+  "name": "my-project2",
+  "version": "1.0.0",
+  "description": "Mern stak",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarynaProkopchuk/my-project2.git"
+  },
+  "keywords": [
+    "mern",
+    "reack"
+  ],
+  "author": "Prokopchuk Daryna <prokopchukdaryna0@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarynaProkopchuk/my-project2/issues"
+  },
+  "homepage": "https://github.com/DarynaProkopchuk/my-project2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8"
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.2",
+    "nodemon": "^2.0.13"
+  }
+}
